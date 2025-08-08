@@ -178,4 +178,24 @@ season,team,team_name
 2024-25,17,Sunderland  
 2024-25,18,Spurs  
 2024-25,19,West Ham  
-2024-25,20,Wolves
+2024-25,20,Wolvesseason,id,name
+2025-26,1,Arsenal
+2025-26,2,Aston Villa
+2025-26,3,Burnley
+2025-26,4,Bournemouth
+2025-26,5,Brentford
+2025-26,6,Brighton
+2025-26,7,Chelsea
+2025-26,8,Crystal Palace
+2025-26,9,Everton
+2025-26,10,Fulham
+2025-26,11,Leeds
+2025-26,12,Liverpool
+2025-26,13,Man City
+2025-26,14,Man Utd
+2025-26,15,Newcastle
+2025-26,16,Nott'm Forest
+2025-26,17,Sunderland
+2025-26,18,Spurs
+2025-26,19,West Ham
+2025-26,20,Wolves
